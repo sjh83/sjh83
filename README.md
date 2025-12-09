@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=auto&height=118&section=footer&animation=fadeIn)
 <!--
 **sjh83/sjh83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

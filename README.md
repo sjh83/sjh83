@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Hi%20there👋👋%20I'm%20sjh%20😊😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+<h1 align="center">Hi I'm JinHo</h1>
 
 ## Hi there 👋
 

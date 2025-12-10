@@ -1,6 +1,14 @@
 <h1 align="center">Hi I'm JinHo</h1>
 
-## Hi there 👋
+## About me
+
+프론트 엔드 공부 중😄
+
+## Bootcamp
+
+| 단계  | 학습내용                                                              | 상태   |
+| ----- | --------------------------------------------------------------------- | ------ |
+| 1단계 | HTML, CSS, CSS심화<br> TailwindCSS, Bootstrap <br> Figma, GitHub 초급 | 진행중 |
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=118&section=footer&animation=fadeIn)
 
